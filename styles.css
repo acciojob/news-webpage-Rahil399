@@ -61,6 +61,7 @@ body {
 /* Pictorial News Section */
 .pictorial-news-section {
     margin: 20px;
+	text-align: center;
 }
 
 .pictorial-news-section img {
